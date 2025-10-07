@@ -114,3 +114,8 @@ dmypy.json
 # jupyterlite
 *.doit.db
 _output
+
+# my notebooks
+/content/OlivineDiffusion_1.ipynb
+/content/OlivineDiffusion_2.ipynb
+/content/OlivineDiffusion_3.ipynb
