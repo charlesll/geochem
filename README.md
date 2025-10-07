@@ -1,4 +1,4 @@
-# JupyterLite Demo
+# Geochemical Modeling Course
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://charlesll.github.io/geochem)
 
